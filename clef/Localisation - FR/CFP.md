@@ -1,20 +1,20 @@
-# SimpleText@CLEF-2022 Call for papers
+# SimpleText@CLEF-2022 Appel à contributions
 
-[Home](./) | [Call for papers](./CFP) | [Important dates](./dates) | [Tasks](./tasks)  | [Tools](./tools)  
-[Program](./program) | [Publications](./publications) | [Organisers](./organisers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef)
+[Accueil](./) | [Appel à contributions](./CFP) | [Dates importantes](./dates) | [Tâches](./tasks)  | [Outils](./tools)  
+[Programme](./program) | [Publications](./publications) | [Organisateurs](./organisers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef)
 
 ---
 
-## Deadlines
+## Dates limites
 
-* Submissions: 27 May 2022 (AoE)  
-* Notifications: 13 June 2022  
-* CLEF conference: 5 - 8 September 2022  
+* Soumission : 27 mai 2022 (AoE)  
+* Notifications : 13 June 2022  
+* Conférence CLEF : 5 - 8 Septembre 2022  
 
-For more details, check out the [CLEF 2022 Website](https://clef2022.clef-initiative.eu/index.php)
+Pour plus de détails, consultez le [site internet CLEF 2022](https://clef2022.clef-initiative.eu/index.php)
 
-## Context of the workshop
-Scientific literacy, including health related questions, is important in order to allow people to make informed decisions, evaluate information quality, maintain physiological and mental health. For example, the stories individuals find credible can determine their response to the COVID-19 pandemic, including the application of social distancing, using dangerous fake medical treatments, or hoarding panic buying. Unfortunately, stories in social media may be easier for lay people to understand than scientific papers due to the lack of prior background knowledge or complex language and internal vernacular. Scientific texts such as research publications can also be difficult to understand for non domain-experts or scientists outside the publication domain. Improving text comprehensibility and its adaptation to different audiences remains an unresolved problem. From a societal perspective, SimpleText will be a step forward to make the research really open, accessible and understandable for everyone [[1]](#bibliography), to develop a counter-speech to fake news based on scientific results, to allow people to read faster and consequently, become more aware of scientific results, especially with an explosion of open science during the current COVID-19 pandemic. Simplified texts are also more accessible for non-native speakers [[2]](#bibliography), young readers and people with reading disabilities [[3]](#bibliography). Also, text simplification allows the improvement of text-mining and NLP applications, including machine translation results [[4]](#bibliography). Thus, automatic text simplification could be useful for various domains such as scientific communication, scientific journalism, politics, and education.
+## Contexte de l'atelier
+La culture scientifique, y compris les questions liées à la santé, est importante pour permettre aux gens de prendre des décisions éclairées, d'évaluer la qualité des informations et de préserver leur santé physiologique et mentale. Par exemple, les histoires que les individus trouvent crédibles peuvent déterminer leur réponse à la pandémie de COVID-19, y compris l'application de la distanciation sociale, l'utilisation de faux traitements médicaux dangereux ou l'accumulation d'achats de panique. Malheureusement, les histoires dans les médias sociaux peuvent être plus faciles à comprendre pour les profanes que les articles scientifiques en raison de l'absence de connaissances préalables ou d'un langage complexe et d'un jargon interne. Les textes scientifiques, tels que les publications de recherche, peuvent également être difficiles à comprendre pour les non-experts du domaine ou les scientifiques qui ne sont pas concernés par la publication. L'amélioration de la compréhensibilité des textes et leur adaptation à différents publics restent un problème non résolu. D'un point de vue sociétal, SimpleText sera un pas en avant pour rendre la recherche réellement ouverte, accessible et compréhensible pour tous [[1]](#bibliography), développer un contre-discours aux fake news basé sur des résultats scientifiques, pour permettre aux gens de lire plus rapidement et, par conséquent, de prendre davantage conscience des résultats scientifiques, surtout avec l'explosion de la science ouverte pendant la pandémie actuelle de COVID-19. Les textes simplifiés sont également plus accessibles aux locuteurs non natifs [[2]](#bibliography), les jeunes lecteurs et les personnes souffrant d'un handicap de lecture [[3]](#bibliography). En outre, la simplification des textes permet d'améliorer les applications d'extraction de texte et de traitement automatique des langues, notamment les résultats de la traduction automatique. [[4]](#bibliography). Ainsi, la simplification automatique des textes pourrait être utile dans divers domaines tels que la communication scientifique, le journalisme scientifique, la politique et l'éducation.
 
 ## Submission Guidelines
 Submissions should be written in English following the CEURART 1-column paper style and be submitted as PDF files via the EasyChair system. Papers (except extended abstracts) will be refereed through double-blind peer review. The papers should be original, i.e. not published in an earlier workshop or conference or journal, except for extended abstracts. Literature reviews, position and demo papers, papers on ongoing work or negative results are welcomed. Extended abstracts of previously published works are also welcome. We accept the following types of submissions:  
